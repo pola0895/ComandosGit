@@ -1,0 +1,12 @@
+Comandos git
+
+git init: Crea un repositorio
+git clone: Permite descargar un repositorio de la web
+git checkout: Cambiar de ramas/ Para regresar a un commit pasado
+git tag -a nombrenuevo -m "comentario del cambio"
+git diff: Comparar dos commits
+git branch: Crear una nueva rama para trabajar
+git merge: Fucionar dos ramas
+git add .: Se añaden todos los cambios que se encuentren, si no se pone el punto se debe poner que archivo que va a añadir a los cambio
+Siembre debe ir seguido de un commit
+git commit -m: Se suben los cambios, se debe informar que cambio de hace

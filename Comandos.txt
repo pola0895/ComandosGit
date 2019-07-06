@@ -7,10 +7,10 @@ git tag -a nombrenuevo -m "comentario del cambio"
 git diff: Comparar dos commits
 git branch: Crear una nueva rama para trabajar
 git merge: Fucionar dos ramas
-git add .: Se añaden todos los cambios que se encuentren, si no se pone el punto se debe poner que archivo que va a añadir a los cambio
+git add .: Se aÃ±aden todos los cambios que se encuentren, si no se pone el punto se debe poner que archivo que va a aÃ±adir a los cambio
 Siembre debe ir seguido de un commit
 git commit -m: Se suben los cambios, se debe informar que cambio de hace
 git status: Muestra los cambios en los archivos que no han sido subidos en el repositorio
 
 Fin -  Aloha
-23
+23 -245

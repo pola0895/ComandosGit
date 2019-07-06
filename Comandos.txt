@@ -12,4 +12,4 @@ Siembre debe ir seguido de un commit
 git commit -m: Se suben los cambios, se debe informar que cambio de hace
 git status: Muestra los cambios en los archivos que no han sido subidos en el repositorio
 
-Fin
+Fin -  Aloha

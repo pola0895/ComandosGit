@@ -1,4 +1,4 @@
-Comandos git
+﻿Comandos git
 
 git init: Crea un repositorio
 git clone: Permite descargar un repositorio de la web
@@ -9,8 +9,20 @@ git branch: Crear una nueva rama para trabajar
 git merge: Fucionar dos ramas
 git add .: Se añaden todos los cambios que se encuentren, si no se pone el punto se debe poner que archivo que va a añadir a los cambio
 Siembre debe ir seguido de un commit
-git commit -m: Se suben los cambios, se debe informar que cambio de hace
+git commit -m "Escribir cual fue el cambio": Se suben los cambios, se debe informar que cambio de hace
 git status: Muestra los cambios en los archivos que no han sido subidos en el repositorio
+git push: Carga el repositorio local al repositorio remoto
+git pull:
+git ignore:
+git help "comando"
+git rm: elimina archivos de ambos lados
+git rm--cached: eliminar archico del repositorio web
+git checkout
+
+ssh-genkey
+
+ls -la: Se ven todas las carpetas
+
 
 Fin -  Aloha
 23 -245
